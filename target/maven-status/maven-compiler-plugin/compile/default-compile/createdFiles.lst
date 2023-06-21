@@ -1,0 +1,5 @@
+com\sanndag\jpatest\persistence\exceptions\NonexistentEntityException.class
+com\sanndag\jpatest\Jpatest.class
+com\sanndag\jpatest\persistence\StudentJpaController.class
+com\sanndag\jpatest\persistence\exceptions\PreexistingEntityException.class
+com\sanndag\jpatest\persistence\exceptions\IllegalOrphanException.class
